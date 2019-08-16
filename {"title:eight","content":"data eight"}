@@ -1,6 +1,0 @@
-HTTP/1.1 400 Bad Request
-Content-Type: text/html; charset=utf-8
-Server: Rocket
-Content-Length: 548
-Date: Fri, 16 Aug 2019 03:52:50 GMT
-
