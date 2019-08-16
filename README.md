@@ -6,7 +6,7 @@ Implementation of **RUST** class homework on 8/8/2019 with Diesel.
 
 Make sure Postgres is installed and running. Create `.env` file to set database url to connect to Postgres.
 
-`echo DATABASE_URL=postgres://user:password@localhost/rust-web-with-rocket > .env`
+`echo DATABASE_URL=postgres://user:password@localhost/diesel_todo_server > .env`
 
 Create the database from diesel by running:
 
